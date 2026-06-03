@@ -26,7 +26,7 @@ Servo servoMotor2;
 // En seco: valores altos (~1023)
 // Mojado: valores bajos (~0)
 
-const int UMBRAL_LLUVIA_FUERTE = 950;
+const int UMBRAL_LLUVIA_FUERTE = 600;
 const int HISTERESIS = 50;
 
 // ==========================
